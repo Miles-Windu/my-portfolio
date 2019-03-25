@@ -1,0 +1,10 @@
+.nav-link {
+    color: white; 
+    background-color: rgb(16, 14, 14);
+    border: solid white 2px;
+    margin: 10px; 
+}
+
+.nav {
+    background-image: url(../images/images.png)
+}
